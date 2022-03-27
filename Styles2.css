@@ -1,0 +1,21 @@
+#myCanvas
+{
+	border: solid blueviolet 1vh;
+	background-color: white;
+}
+body
+{
+	margin: 0px;
+}
+div
+{
+	height: 1vw;
+}
+input
+{
+	border: solid blueviolet 0.5vh;
+	background-color: white;
+	width: 6vw;
+	height: 4vh;
+	font-family: monospace;
+}
